@@ -13,6 +13,6 @@
 - Gunakan enkapsulasi untuk array data karyawan : `self._employees = []`
 - Buat private method `__calculate_payroll()` yang hanya bisa dipanggil dari dalam class.
 
-**C. Petunjuk Teknis : Manfaatkan fungsi bawaan `isinstance(obj, ClassName)` untuk memvalidasi input object sebelum dimasukkan ke dalam list.
+**C. Petunjuk Teknis :** Manfaatkan fungsi bawaan `isinstance(obj, ClassName)` untuk memvalidasi input object sebelum dimasukkan ke dalam list.
 
 ## # Repository Description
