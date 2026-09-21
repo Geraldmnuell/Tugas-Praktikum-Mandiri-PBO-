@@ -1,5 +1,6 @@
 # **Tugas Praktikum Mandiri - Minggu Ke-5**
 ## Repositori ini merupakan sebuah tugas praktikum mata kuliah *Pemrograman Berorientasi Objek* yang dibuat secara mandiri.
+## Topik : Property Visibility & Enkapsulasi di Python 3.12
 
 ## NAMA : Gerald Imanuel Manongga
 ## NIM : 250211060004
