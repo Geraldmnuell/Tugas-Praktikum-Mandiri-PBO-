@@ -1,5 +1,5 @@
 # **Tugas Praktikum Mandiri - Minggu Ke-5**
-Repositori ini merupakan sebuah tugas praktikum mata kuliah **Pemrograman Berorientasi Objek** yang dibuat secara mandiri.
+## Repositori ini merupakan sebuah tugas praktikum mata kuliah **Pemrograman Berorientasi Objek** yang dibuat secara mandiri.
 
 # NAMA : Gerald Imanuel Manongga
 # NIM  : 250211060004
