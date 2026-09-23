@@ -1,3 +1,6 @@
+"""
+Pertama kita membuat CLass Employee terlebih dahulu sebagai data karyawan
+"""
 class Employee:
     def __init__(self, nama, jabatan, gaji):
         self.nama = nama
