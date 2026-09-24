@@ -1,5 +1,5 @@
 """
-Pertama kita membuat CLass Employee terlebih dahulu sebagai data karyawan
+Pertama kita membuat CLass Employee terlebih dahulu sebagai identitas data karyawan
 """
 class Employee:
     def __init__(self, nama, jabatan, gaji):
@@ -7,17 +7,19 @@ class Employee:
         self.jabatan = jabatan
         self.gaji = gaji
 
+# Ini merupakan Class utama untuk melakukan proses instruksi tugas
 class Company:
     def __init__(self):
-        self.__employees = []
+        self.__employees = [] # Enkapsulasi untuk array data karyawan
 
     def inputData_karyawan(self, employee):
-        if isinstance(employee, Employee):
+        if isinstance(employee, Employee): # Fungsi untuk memvalidasi input objek sebelum di masukkan ke dalam list
             self.__employees.append(employee)
             print("Data karyawan berhasil di tambahkan")
         else:
             print("Objek bukan employee")
-
+            
+    # Membuat private method (only called in class)
     def __calculate_payroll(self):
         total = 0
 
